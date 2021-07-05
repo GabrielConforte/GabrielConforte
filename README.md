@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel. And im learning to code</h1>
+<h1 align="center">Hi 👋, Gabriel Conforte - Junior Developer </h1>
 <h3 align="center">
  👀 I’m interested in fullstack developing and games
 🌱 I’m currently learning react js
