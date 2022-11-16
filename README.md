@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Gabriel Conforte - Junior Developer </h1>
 <h3 align="center">
  👀 I’m interested in fullstack developing and games
-🌱 I’m currently learning MERN STACK
+🌱 I’m FULLSTACK IN MERN
 </h3>
 
 
