@@ -4,7 +4,6 @@
 👀 Interested in fullstack development, automation, and videogames<br>
 🌱 FULLSTACK in MERN stack<br>
 ⚙️ PLC automation developer<br>
-💾 Node-RED deployment on Render with persistent disks<br>
 🏢 Currently developing monitoring applications for private companies
 </h3>
 
