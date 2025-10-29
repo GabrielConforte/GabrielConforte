@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, Gabriel Conforte - Junior Developer </h1>
+<h1 align="center">Hi 👋, I'm Gabriel Conforte - Junior Developer</h1>
+
 <h3 align="center">
- 👀 I’m interested in fullstack developing and games
-🌱 I’m FULLSTACK IN MERN
+👀 Interested in fullstack development, automation, and videogames<br>
+🌱 FULLSTACK in MERN stack<br>
+⚙️ PLC automation developer<br>
+💾 Node-RED deployment on Render with persistent disks<br>
+🏢 Currently developing monitoring applications for private companies
 </h3>
 
+<h3 align="center">💻 Tech Stack & Tools</h3>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  
-<!---
-GabrielConforte/GabrielConforte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Node--RED-FF3E00?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED">
+<img src="https://img.shields.io/badge/PLC-Athletic?style=for-the-badge&logoColor=white" alt="PLC">
+</p>
