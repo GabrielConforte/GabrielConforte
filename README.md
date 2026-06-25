@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Conforte - Junior Developer</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Conforte </h1>
 
 <h3 align="center">
 👀 Interested in fullstack development, automation, and videogames<br>
