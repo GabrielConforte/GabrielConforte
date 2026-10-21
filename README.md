@@ -8,7 +8,6 @@ When I'm not working, I'm probably learning something new, drawing, or playing a
 
 ### What I'm into
 
-- **Web development** — React, Node.js, Express, MongoDB.
 - **Industrial automation** — PLCs, Node-RED, data acquisition and monitoring.
 - **Building things** — from practical tools and integrations to personal software projects.
 - **Videogames & technology** — both as a player and as someone curious about how things work under the hood.
